@@ -3,3 +3,5 @@ asdf
 asdf
 sdf
 sdf
+https://github.com/vukkumsp/image-modifier.git
+https://github.com/vukkumsp/finance-manager.git 
