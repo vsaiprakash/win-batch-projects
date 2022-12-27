@@ -1,2 +1,5 @@
 https://github.com/vukkumsp/image-modifier.git
-https://github.com/vukkumsp/finance-manager.git 
+https://github.com/vukkumsp/finance-manager.git
+https://github.com/vukkumsp/local-entertainment-system.git
+https://github.com/vukkumsp/warrant-auth-server.git
+https://github.com/vukkumsp/portfolio-app-ui.git
