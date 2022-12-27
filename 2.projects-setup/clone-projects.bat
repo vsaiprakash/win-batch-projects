@@ -4,13 +4,13 @@
 
 set projectsPath="C:\Users\vukkumsp\Documents\Projects\
 FOR /F "tokens=*" %%x in (project-urls.txt) DO (
-    ECHO About to Clone %%x
+    ECHO [START] ----------------About to Clone %%x
 	ECHO %%x
     FOR %%i IN (%%x) DO (
 		ECHO Cloning... %%x
 		git clone %%x "%projectsPath%%%~ni
     )
-    ECHO Cloned %%x
+    ECHO [END] ------------------Cloned %%x
 )
 
 @REM -------------Sample Code used---------------
